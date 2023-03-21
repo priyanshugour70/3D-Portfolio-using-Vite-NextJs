@@ -179,7 +179,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "This man is enthusiastic about coding, has enthusiastically engaged in all events, and has contributed some osm results.",
       name: "Smriti Jain",
       designation: "Prof.",
       company: "iNurture",
@@ -187,7 +187,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "Excellent problem-solving abilities This man has some incredible methods for fixing issues right now.",
       name: "Lokesh Sahu",
       designation: "Prof.",
       company: "iNurture",
